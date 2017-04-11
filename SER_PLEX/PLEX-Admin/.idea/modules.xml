@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PLEX-Admin.iml" filepath="$PROJECT_DIR$/.idea/modules/PLEX-Admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PLEX-Admin_main.iml" filepath="$PROJECT_DIR$/.idea/modules/PLEX-Admin_main.iml" group="PLEX-Admin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PLEX-Admin_test.iml" filepath="$PROJECT_DIR$/.idea/modules/PLEX-Admin_test.iml" group="PLEX-Admin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1788652865/WFC-Interfaces.iml" filepath="$PROJECT_DIR$/.idea/modules/1788652865/WFC-Interfaces.iml" group="WFC-Interfaces" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1788652865/WFC-Interfaces_main.iml" filepath="$PROJECT_DIR$/.idea/modules/1788652865/WFC-Interfaces_main.iml" group="WFC-Interfaces" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1788652865/WFC-Interfaces_test.iml" filepath="$PROJECT_DIR$/.idea/modules/1788652865/WFC-Interfaces_test.iml" group="WFC-Interfaces" />
+    </modules>
+  </component>
+</project>

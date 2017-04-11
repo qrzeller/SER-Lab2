@@ -1,0 +1,2 @@
+include ':WFC-Interfaces'
+project(':WFC-Interfaces').projectDir = new File('../WFC-Interfaces')
