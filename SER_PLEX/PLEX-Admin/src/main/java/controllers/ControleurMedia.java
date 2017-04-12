@@ -60,7 +60,7 @@ public class ControleurMedia {
 						for (RoleActeur r : p.getFilm().getRoles()) {
 
 							// Ne récupère que les 10 acteurs les plus significatifs
-							if (r.getPlace() > 10) {
+							if (r.getPlace() > 5) {
 								continue;
 							}
 
